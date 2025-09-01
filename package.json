@@ -1,0 +1,12 @@
+{
+  "name": "mbuvi-makeo-personal-website",
+  "version": "1.0.0",
+  "description": "Modern 3D personal website for Mbuvi Makeo - ICTM Student at Maseno University",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Static site - no build needed'"
+  },
+  "keywords": ["personal-website", "portfolio", "ictm", "maseno-university"],
+  "author": "Mbuvi Makeo",
+  "license": "MIT"
+}
